@@ -4,7 +4,7 @@
 
 AbroadDream is a UI/UX prototype designed using **Axure RP** for a university counselling and scholarship searching platform. This project was developed as part of a UI/UX engineering exercise.
 
-The system is designed to help students explore 🎓 universities, 📚 courses, 💰 scholarships, and study opportunities in countries such as Australia, Canada, USA, and 🇬🇧 UK.
+The system is designed to help students explore 🎓 universities, 📚 courses, 💰 scholarships, and study opportunities in countries such as Australia, Canada, USA, and UK.
 
 The prototype focuses on improving user experience by applying UI/UX design principles, interactive navigation, and a clean, user-friendly interface.
 
